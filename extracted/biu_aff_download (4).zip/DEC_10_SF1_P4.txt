@@ -1,0 +1,129 @@
+P4
+HISPANIC OR LATINO ORIGIN
+
+Universe: Total population
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r41068)	This count has been revised.   
+Revised count: 13 Revision date: 01-31-2014
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r53059)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53060)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53061)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53062)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53063)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53064)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53065)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53066)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53067)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r53068)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r41073)	This count has been revised.   
+Revised count: 5 Revision date: 01-31-2014
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r41069)	This count has been revised.   
+Revised count: 5 Revision date: 01-31-2014
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r41070)	This count has been revised.   
+Revised count: 5 Revision date: 01-31-2014
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r53069)	This geographic area was changed or removed.        
+ 
+Revision date: 01-31-2014 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+Source: U.S. Census Bureau, 2010 Census.
+

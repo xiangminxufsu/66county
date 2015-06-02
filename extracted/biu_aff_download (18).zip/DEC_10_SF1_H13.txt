@@ -1,0 +1,73 @@
+H13
+HOUSEHOLD SIZE
+
+Universe: Occupied housing units
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r2928)	This count has been revised.   
+Revised count: 0 Revision date: 08-16-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r2929)	This count has been revised.   
+Revised count: 364 Revision date: 08-26-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r2932)	This count has been revised.   
+Revised count: 40 Revision date: 08-16-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r2919)	This count has been revised.   
+Revised count: 14 Revision date: 09-20-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r49967)	This geographic area was changed or removed.        
+ 
+Revision date: 09-20-2013 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r2924)	This count has been revised.   
+Revised count: 125 Revision date: 09-20-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r2921)	This count has been revised.   
+Revised count: 632 Revision date: 09-20-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r49968)	This geographic area was changed or removed.        
+ 
+Revision date: 09-20-2013 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+Source: U.S. Census Bureau, 2010 Census.
+

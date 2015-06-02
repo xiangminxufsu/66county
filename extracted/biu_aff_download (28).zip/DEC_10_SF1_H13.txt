@@ -1,0 +1,17 @@
+H13
+HOUSEHOLD SIZE
+
+Universe: Occupied housing units
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r49966)	This geographic area was changed or removed.        
+ 
+Revision date: 11-21-2012 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+Source: U.S. Census Bureau, 2010 Census.
+

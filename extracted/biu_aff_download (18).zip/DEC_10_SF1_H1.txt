@@ -1,0 +1,73 @@
+H1
+HOUSING UNITS
+
+Universe: Housing units
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r17692)	This count has been revised.   
+Revised count: 0 Revision date: 08-16-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r17693)	This count has been revised.   
+Revised count: 397 Revision date: 08-26-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r17696)	This count has been revised.   
+Revised count: 53 Revision date: 08-16-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r17683)	This count has been revised.   
+Revised count: 24 Revision date: 09-20-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r51203)	This geographic area was changed or removed.        
+ 
+Revision date: 09-20-2013 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r17688)	This count has been revised.   
+Revised count: 242 Revision date: 09-20-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r17685)	This count has been revised.   
+Revised count: 1,349 Revision date: 09-20-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r51204)	This geographic area was changed or removed.        
+ 
+Revision date: 09-20-2013 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+Source: U.S. Census Bureau, 2010 Census.
+

@@ -1,0 +1,89 @@
+P3
+RACE
+
+Universe: Total population
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r41042)	This count has been revised.   
+Revised count: 347 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r41049)	This count has been revised.   
+Revised count: 55 Revision date: 09-12-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r41045)	This count has been revised.   
+Revised count: 0 Revision date: 08-16-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r41046)	This count has been revised.   
+Revised count: 1,223 Revision date: 08-26-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r41051)	This count has been revised.   
+Revised count: 122 Revision date: 08-16-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r41033)	This count has been revised.   
+Revised count: 27 Revision date: 09-20-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r53057)	This geographic area was changed or removed.        
+ 
+Revision date: 09-20-2013 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+(r41038)	This count has been revised.   
+Revised count: 188 Revision date: 09-20-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r41035)	This count has been revised.   
+Revised count: 1,027 Revision date: 09-20-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r53058)	This geographic area was changed or removed.        
+ 
+Revision date: 09-20-2013 
+
+For more information, see  2010 Census Count Question Resolution.
+ 
+
+
+Source: U.S. Census Bureau, 2010 Census.
+
